@@ -139,3 +139,55 @@ header {
     border: 1px dashed black;
     background-color: green;
 }
+
+.footer {
+    background-color: rgb(27, 24, 24);
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    
+    
+}
+
+.footer > .first-column {
+
+    width: 325px;
+    height: 500px;
+    border: 1px dashed black;
+    background-color: #F08080;
+}
+
+
+.footer > .second-column {
+
+    width: 150px;
+    height: 500px;
+    border: 1px dashed black;
+    background-color: #20B2AA;
+}
+
+.footer > .third-column {
+
+    width: 150px;
+    height: 500px;
+    border: 1px dashed black;
+    background-color: #20B2AA;
+}
+
+.footer > .fourth-column {
+
+    width: 150px;
+    height: 500px;
+    border: 1px dashed black;
+    background-color: #20B2AA;
+}
+
+.footer > .fifth-column {
+
+    width: 150px;
+    height: 500px;
+    border: 1px dashed black;
+    background-color: #20B2AA;
+}
+
