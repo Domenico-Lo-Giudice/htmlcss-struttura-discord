@@ -35,16 +35,21 @@ header {
     text-align: end; 
 }
 
-section {
+.sezione {
     background-color: blue;
     height: 400px;
-    display: flex
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
 }
 
-#column {
-    width: 300px;
+.colonna {
+    width: 600px;
     height: 300px;
     border: 1px dashed black;
-    align-items: center
-    
+    background-color: rgb(241, 86, 234); 
+   
+
 }
