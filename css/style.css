@@ -35,7 +35,7 @@ header {
     text-align: end; 
 }
 
-.sezione {
+.prima-sezione {
     background-color: blue;
     height: 400px;
     display: flex;
@@ -52,4 +52,29 @@ header {
     background-color: rgb(241, 86, 234); 
    
 
+}
+
+.seconda-sezione {
+    background-color: rgb(204, 123, 123);
+        height: 400px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+.seconda-sezione > .first-column {
+
+        width: calc(50% / 3* 2);
+        height: 350px;
+        border: 1px dashed black;
+        background-color: aqua;
+        
+}
+
+.seconda-sezione > .second-column {
+
+    width: calc(65% / 3);
+    height: 350px;
+    border: 1px dashed black;
+    background-color: pink;
 }
