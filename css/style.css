@@ -18,6 +18,7 @@ header {
     border: 1px dashed black;
     min-width: 300px;
     height: 35px;
+    padding: 7px; 
 }
 
 .container-header>nav {
@@ -26,6 +27,7 @@ header {
 }
 
 #link {
+    
     text-align: center;
 }
 
