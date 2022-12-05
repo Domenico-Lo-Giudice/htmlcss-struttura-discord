@@ -1,0 +1,10 @@
+.container-header {
+    max-width: 120px;
+    margin: 0 auto;
+    background-color: goldenrod;
+    display: flex;
+}
+
+.container-header>* {
+    border: 1px dashed black;
+}
