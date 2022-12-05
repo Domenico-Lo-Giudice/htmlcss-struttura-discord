@@ -10,7 +10,8 @@ header {
     margin: 0 auto;
     background-color: goldenrod;
     display: flex;
-    justify-content: space-between;
+    
+    
 }
 
 .container-header>* {
@@ -24,3 +25,10 @@ header {
     
 }
 
+#link {
+    text-align: center;
+}
+
+.login {
+    text-align: end; 
+}
